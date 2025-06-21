@@ -1,0 +1,16 @@
+ion-content{
+  --background: var(--ion-color-primary);
+}
+ion-toolbar{
+  --background: var(--ion-color-secondary);
+}
+ion-title{
+  --color: var(--ion-color-secondary-contrast);
+}
+
+.qr-image {
+  width: 100%;
+  max-width: 200px;
+  margin: 0 auto;
+  display: block;
+}
